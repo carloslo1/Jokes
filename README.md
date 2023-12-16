@@ -1,27 +1,28 @@
-# Myapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
+# Proyecto Angular Final - ChuckNorris Jokes Page
 
-## Development server
+## Descripción
+Este proyecto, desarrollado en Angular, se centra en mostrar los mejores chistes del icónico personaje Chuck Norris. Utilizando la API de [Chuck Norris](https://api.chucknorris.io/), la página web ofrece una experiencia interactiva y divertida para los usuarios.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Características Principales
+- **Pantalla de Chistes:** Presenta un chiste aleatorio de Chuck Norris obtenido de la API. Incluye un botón para cargar un nuevo chiste de manera aleatoria.
+- **Pantalla de Créditos:** Muestra los detalles del desarrollador, incluyendo nombre completo, una imagen representativa, tecnologías utilizadas en el proyecto, y un correo electrónico de contacto.
 
-## Code scaffolding
+### Navegación
+La página cuenta con un sistema de navegación eficiente (navbar, sidebar, footer, etc.) que permite al usuario moverse entre las distintas vistas de manera intuitiva y fluida.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Requerimientos Técnicos
+- **Componentes:** Utilización de al menos 2 componentes Angular.
+- **Directivas:** Implementación de mínimo 1 directiva Angular.
+- **Rutas:** Uso y manejo efectivo de rutas en Angular.
+- **Servicio y Método:** Inclusión de al menos un servicio y un método.
+- **Estilo y Diseño:** Un diseño atractivo y amigable, con un buen uso de CSS.
 
-## Build
+## Herramientas Recomendadas
+- **Postman:** Para probar la API y facilitar el desarrollo.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Cómo Contribuir
+Para contribuir a este proyecto, por favor envía un pull request o abre un issue para discutir los cambios propuestos.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contacto
+Para más información, por favor contacta al desarrollador a través del correo electrónico proporcionado en la pantalla de créditos.
